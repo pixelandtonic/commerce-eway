@@ -1,5 +1,10 @@
 # Release Notes for eWay for Craft Commerce
 
+## 5.0.0 - 2022-05-04
+
+### Added
+- Added Craft CMS 5 and Craft Commerce 5 compatibility.
+
 ## 4.0.0 - 2022-05-04
 
 ### Added
