@@ -25,9 +25,9 @@
   },
   "require": {
     "php": "^8.0.2",
-    "craftcms/cms": "^4.0.0-RC3",
-    "craftcms/commerce": "^4.0.0-RC1",
-    "craftcms/commerce-omnipay": "^4.0.0-RC1",
+    "craftcms/cms": "^4.0.0-RC3|^5.0",
+    "craftcms/commerce": "^4.0.0-RC1|^5.0",
+    "craftcms/commerce-omnipay": "^4.1.0",
     "omnipay/eway": "~3.0"
   },
   "autoload": {
@@ -44,9 +44,6 @@
       "yiisoft/yii2-composer": true,
       "craftcms/plugin-installer": true,
       "php-http/discovery": true
-    },
-    "platform": {
-      "php": "8.0.2"
     }
   },
   "prefer-stable": true,
